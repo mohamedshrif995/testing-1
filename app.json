@@ -1,0 +1,12 @@
+{
+  "name": "hosame",
+  "displayName": "hosame",
+  "expo": {
+    "name": "hosame",
+    "slug": "hosame",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
